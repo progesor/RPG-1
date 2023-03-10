@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b1f6edf7219569c4ca5c598f8a320068, type: 3}
+  m_Name: Ground
+  m_EditorClassIdentifier: 
+  _root: {fileID: 0}
+  _parent: {fileID: 0}
+  _parentID:
+    _serializedGuid: 002292408b49cf48b423e7e9842c992b
+  _subcollections: []
+  _subcollectionIDs: []
+  _collectionName: Ground
+  _id:
+    _serializedGuid: 08fa490f4c1d684cb8f8ccc2c1d63e42
+  _icon: {fileID: 0}
+  _rules:
+    _rules:
+    - rid: 5752428891459551271
+    - rid: 5752428891459551272
+  _items:
+    _hashSetList:
+    - e8626f153f8ac284aacb682a5bd03f9a
+    - aed71a26f6deb4948906a74ef02072e8
+    - 3bbe87fa58bce5f45b8bab9eb7e029ea
+    - 4f1975605e5caaa459bf86993208852f
+    - 2f93a1f0e01b55f4db086d907e656220
+    - 9c88bacd4357689499c1e5f63123508e
+    - bc34082eb2ec74340a780dc888a3b151
+    - a3d61384a7c74304bb7688b43a03c395
+    - 3a279e6d101803e4b8112667c23b3730
+    - f3f86511505c9604abcab1bf090fc36b
+    - 74e9944db636fe140830b274ae7d10bc
+    - c0220a584e159304d8540ba6ad34766b
+    - d80db7d6ccc56db47a7b33aeed287ace
+    - ecf6d209d3762214481ed52a6c771c64
+    - a8abb708fd476134d8cc8ba0e0678d00
+    - 8ec29696c3f5cc04faf6c4c6a5ffb0ea
+    - 07694c404f896de46b663901d78b5f45
+    - 94d3121b705034742a9546cfcf2b05d2
+    - 3069bc1a47fd2ee459e91e95e1e765fb
+    - 908f1ebd22571874db27e7c782e91c67
+    - 1ac18bfbb0556a84b883c78d73021711
+    - 80ea1fa2ab510714a99c1170024fa4f5
+    - 1bef891581da13144a65d349d2cea3f6
+    - 8dadbdebd7aa1a84e90341a7c4efd21d
+    - b0039c0b258967342bdb96afc637b6cb
+    - c5db1147f0437c64d8cb70bfccbad315
+    - 250af0a1980df494a92508da2e7a1518
+    - 259f297162418b94c8e4b0d018262bc8
+    - 214073465227b5944a5a4716cbf03507
+    - ed9fd7e6c74a92f42b49e06cb75d2088
+    - d542219185af98e43ba1374a27a5e163
+    - 9d7e31be85092294f96c92b8c1d47110
+    - 38e9f74e7ad2817489313b84c0695d34
+    - 64d241d0915f83448a574a7401b68ec4
+    - f99148c9e30e6b746abc98c86fb60e5d
+    - f0d166010146cdc4eb7c784d54eda812
+    - 9df3950b049c15444ac05347917484ca
+    - e7473d9620ab29341b98bf21b400e598
+    - 067161ae46386c14c842800eb27cf27b
+    - 67591d5c46592134abc0500512ba9123
+    - d20f879d2c934d941b46cf389c6ebb5c
+    - f39a87f00698b7f4b951eb1246c05f73
+    - b26e831007b06f0439f0c22795638af0
+    - b4a9241b4459866439680058f653b202
+    - 59feba50915132e4bab339579a1c06b8
+    - a191aaa06ae9bb044be515a674fd12dd
+  _itemDisplaySize: 100
+  _viewStyle: 0
+  _useCollectionViewSettings: 0
+  _folders: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 5752428891459551271
+      type: {class: PrefabRule, ns: Bewildered.SmartLibrary, asm: Bewildered.SmartLibrary}
+      data:
+        _operand: 2
+        _scopeState: 0
+        _prefabType: 1
+    - rid: 5752428891459551272
+      type: {class: NameRule, ns: Bewildered.SmartLibrary, asm: Bewildered.SmartLibrary}
+      data:
+        _operand: 2
+        _scopeState: 0
+        _matchType: 1
+        _text: Ground

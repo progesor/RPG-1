@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b1f6edf7219569c4ca5c598f8a320068, type: 3}
+  m_Name: Audio Name
+  m_EditorClassIdentifier: 
+  _root: {fileID: 0}
+  _parent: {fileID: 0}
+  _parentID:
+    _serializedGuid: 002292408b49cf48b423e7e9842c992b
+  _subcollections: []
+  _subcollectionIDs: []
+  _collectionName: Audio Name
+  _id:
+    _serializedGuid: 4d8612ac09ccd64eaa30352587fdd106
+  _icon: {fileID: 0}
+  _rules:
+    _rules:
+    - rid: 5752428891459551284
+    - rid: 5752428891459551285
+  _items:
+    _hashSetList:
+    - d29540d0f742d18488d2286aa18a44ed
+    - d887e403baffb964f9250a5e67e06c29
+    - 702f0c136bf991d4492c5d852c65acd9
+    - 9c6e19771727aeb47baac8657ad8feb2
+    - bc453b64068cd07409247ca449e4d3a5
+    - 73257f1a77502bb4cb36e8f215f1df21
+    - ed798b5c41c8637498fd922535766b16
+    - d87c96fa52012d544b54e472ad98f481
+    - 30ef745d3a16c50479e811fdd96bbc5a
+    - fcef21c212d4e8f49886d71db9c1f551
+    - 07100bed2cce8dd47859576d155ea037
+    - 94d9aeee9911a75408c201bd0d2eddf3
+  _itemDisplaySize: 100
+  _viewStyle: 0
+  _useCollectionViewSettings: 0
+  _folders: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 5752428891459551284
+      type: {class: TypeRule, ns: Bewildered.SmartLibrary, asm: Bewildered.SmartLibrary}
+      data:
+        _operand: 2
+        _scopeState: 0
+        _type:
+          _typeName: UnityEngine.AudioClip, UnityEngine.AudioModule, Version=0.0.0.0,
+            Culture=neutral, PublicKeyToken=null
+    - rid: 5752428891459551285
+      type: {class: NameRule, ns: Bewildered.SmartLibrary, asm: Bewildered.SmartLibrary}
+      data:
+        _operand: 2
+        _scopeState: 0
+        _matchType: 1
+        _text: punch

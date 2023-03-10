@@ -1,0 +1,114 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 63a5bc593402dfa489ebb23c5153ab25, type: 3}
+  m_Name: Door
+  m_EditorClassIdentifier: 
+  _root: {fileID: 0}
+  _parent: {fileID: 0}
+  _parentID:
+    _serializedGuid: d4a045e0ac0eb04b8c1d32e7bf039bf7
+  _subcollections: []
+  _subcollectionIDs: []
+  _collectionName: Door
+  _id:
+    _serializedGuid: 3feeb1b2a397de41acb4974d4878489f
+  _icon: {fileID: 0}
+  _rules:
+    _rules:
+    - rid: 5752428891459551264
+    - rid: 5752428891459551266
+  _items:
+    _hashSetList:
+    - b6d6e17b4d591754f88c4ff48dabafc6
+    - ae8e257702c739a459658f321b5174fe
+    - 55339676f9f96c14fa8ef735217f1560
+    - 6c5e3a871a5d7d84d916981aff0c505c
+    - 41ce1a831a1f83a4596a986fb3c31ea6
+    - a9495ed720c4d56408a3d9cbdd3e638e
+    - f775552096f7c4e46a9e0938fce4ca6c
+    - e4616f0d4fa69d044997ad5e4d02b148
+    - 89ece42cbeee51544aacc46371afce2a
+    - 0a5ef1aaf47f03547983772b8f1f3a80
+    - a342473935e669649a9be973cda516c1
+    - 43c7f8dd68155c9429740d8000ec6c10
+    - 7af619afd99c7f840908922c2a1356f1
+    - 2a05301514eb7a445a766ca5c39a0b12
+  _itemDisplaySize: 100
+  _viewStyle: 0
+  _useCollectionViewSettings: 0
+  _autoSourceCollections: []
+  _sourceCollections:
+  - _collection: {fileID: 0}
+    _id:
+      _serializedGuid: 
+  _itemsSourcesMap:
+    _keyValuePairs:
+    - key: b6d6e17b4d591754f88c4ff48dabafc6
+      value:
+      - _serializedGuid: d4a045e0ac0eb04b8c1d32e7bf039bf7
+    - key: ae8e257702c739a459658f321b5174fe
+      value:
+      - _serializedGuid: d4a045e0ac0eb04b8c1d32e7bf039bf7
+    - key: 55339676f9f96c14fa8ef735217f1560
+      value:
+      - _serializedGuid: d4a045e0ac0eb04b8c1d32e7bf039bf7
+    - key: 6c5e3a871a5d7d84d916981aff0c505c
+      value:
+      - _serializedGuid: d4a045e0ac0eb04b8c1d32e7bf039bf7
+    - key: 41ce1a831a1f83a4596a986fb3c31ea6
+      value:
+      - _serializedGuid: d4a045e0ac0eb04b8c1d32e7bf039bf7
+    - key: a9495ed720c4d56408a3d9cbdd3e638e
+      value:
+      - _serializedGuid: d4a045e0ac0eb04b8c1d32e7bf039bf7
+    - key: f775552096f7c4e46a9e0938fce4ca6c
+      value:
+      - _serializedGuid: d4a045e0ac0eb04b8c1d32e7bf039bf7
+    - key: e4616f0d4fa69d044997ad5e4d02b148
+      value:
+      - _serializedGuid: d4a045e0ac0eb04b8c1d32e7bf039bf7
+    - key: 89ece42cbeee51544aacc46371afce2a
+      value:
+      - _serializedGuid: d4a045e0ac0eb04b8c1d32e7bf039bf7
+    - key: 0a5ef1aaf47f03547983772b8f1f3a80
+      value:
+      - _serializedGuid: d4a045e0ac0eb04b8c1d32e7bf039bf7
+    - key: a342473935e669649a9be973cda516c1
+      value:
+      - _serializedGuid: d4a045e0ac0eb04b8c1d32e7bf039bf7
+    - key: 43c7f8dd68155c9429740d8000ec6c10
+      value:
+      - _serializedGuid: d4a045e0ac0eb04b8c1d32e7bf039bf7
+    - key: 7af619afd99c7f840908922c2a1356f1
+      value:
+      - _serializedGuid: d4a045e0ac0eb04b8c1d32e7bf039bf7
+    - key: 2a05301514eb7a445a766ca5c39a0b12
+      value:
+      - _serializedGuid: d4a045e0ac0eb04b8c1d32e7bf039bf7
+  _autoSource: 1
+  references:
+    version: 2
+    RefIds:
+    - rid: 5752428891459551264
+      type: {class: NameRule, ns: Bewildered.SmartLibrary, asm: Bewildered.SmartLibrary}
+      data:
+        _operand: 2
+        _scopeState: 0
+        _matchType: 1
+        _text: Door
+    - rid: 5752428891459551266
+      type: {class: NameRule, ns: Bewildered.SmartLibrary, asm: Bewildered.SmartLibrary}
+      data:
+        _operand: 1
+        _scopeState: 0
+        _matchType: 1
+        _text: Gate

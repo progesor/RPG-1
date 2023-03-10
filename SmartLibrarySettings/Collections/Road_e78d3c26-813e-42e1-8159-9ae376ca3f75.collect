@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b1f6edf7219569c4ca5c598f8a320068, type: 3}
+  m_Name: Road
+  m_EditorClassIdentifier: 
+  _root: {fileID: 0}
+  _parent: {fileID: 0}
+  _parentID:
+    _serializedGuid: 002292408b49cf48b423e7e9842c992b
+  _subcollections: []
+  _subcollectionIDs: []
+  _collectionName: Road
+  _id:
+    _serializedGuid: 263c8de73e81e14281599ae376ca3f75
+  _icon: {fileID: 0}
+  _rules:
+    _rules:
+    - rid: 5752428891459551273
+    - rid: 5752428891459551274
+  _items:
+    _hashSetList:
+    - c87a99b4c24b9ce48bac40727eb1ecb6
+    - 5ab0a89b999b35f409030a8e88830d12
+    - cf6871bb3104ec44c9b52e64356323d6
+    - 6d702f40b032ac944bea4507937232a5
+    - cde552c6ccc41204392f66529783d760
+    - 659ffda2fd4a2ee4cb3bc9ccc0f4c4af
+    - 277c7d167d4d0af4aac55cdde94e2ff6
+    - 6c700b3798672714e935e2351a541be5
+    - c21a03bed254a07439c69b0338fc1826
+    - d97e4a600bfe8834da9d44d2f93d9abc
+    - f61def225eac3e247985f6679965a655
+    - 6071db37dae58dc418710a47e22faca7
+    - 5e2afffb319513f4fba9ea47afe984d3
+    - 3ec1232074c63024aa0c94c262930685
+    - 230cf437ef9c98741b123e6a0692c959
+  _itemDisplaySize: 100
+  _viewStyle: 0
+  _useCollectionViewSettings: 0
+  _folders: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 5752428891459551273
+      type: {class: PrefabRule, ns: Bewildered.SmartLibrary, asm: Bewildered.SmartLibrary}
+      data:
+        _operand: 2
+        _scopeState: 0
+        _prefabType: 1
+    - rid: 5752428891459551274
+      type: {class: NameRule, ns: Bewildered.SmartLibrary, asm: Bewildered.SmartLibrary}
+      data:
+        _operand: 2
+        _scopeState: 0
+        _matchType: 1
+        _text: Road

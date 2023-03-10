@@ -1,0 +1,174 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 63a5bc593402dfa489ebb23c5153ab25, type: 3}
+  m_Name: Tower
+  m_EditorClassIdentifier: 
+  _root: {fileID: 0}
+  _parent: {fileID: 0}
+  _parentID:
+    _serializedGuid: d4a045e0ac0eb04b8c1d32e7bf039bf7
+  _subcollections: []
+  _subcollectionIDs: []
+  _collectionName: Tower
+  _id:
+    _serializedGuid: 375f47128ee8274da2c8dd80986856ee
+  _icon: {fileID: 0}
+  _rules:
+    _rules:
+    - rid: 5752428891459551265
+  _items:
+    _hashSetList:
+    - 5bac2e5b67a92154ea5b4afa2d695044
+    - 8cb498ab8ebea3640a0c9b12de1c91f6
+    - 74c8606a98822e044bb1cd8a2eaefebb
+    - b1ad8ef6890687249a641abef8e26baf
+    - cd46f6361746af34ca29dec77bee51a2
+    - 092595d39c7f3fe40bc19e13323f824d
+    - 608f0ba07d26e7642b8d36d0e0f851e6
+    - 5a16fbe844697354eaafd84247d55985
+    - c030142463ad580429b680ac742166ba
+    - 6cc63cba898ace244bba643423dfda2e
+    - 73bc14e443072aa4d99d7c246a51370d
+    - b6f3dfbb5c58a34489071b09c45b8f94
+    - 0c66159e6cbb60a42831373af849b686
+    - 98ab284b689f29148afb10f5b7f09992
+    - a5d0481d2421b38458d7a3d90a2f39e0
+    - 858952fd9f8e74140bf57e65ddc472ed
+    - a549a6de16f98f84ebe678daba85b04e
+    - a403260d581bded4d85f723fd39eb456
+    - 59fda38c2143a264fb1ca61086abcc96
+    - a6904f5656dfe8e49bd1fae1497ddf07
+    - 875f1554fc0f55443b16d1cb0b912e64
+    - fa993d692bbb7fe4eadefb231970e8b7
+    - b2ccf63e5a3aab9438ac359089017a46
+    - 20980883898f4704f86e6d74b75682ef
+    - d43900a9d4c0e224eaf62e1d618dd64a
+    - 576b6d70e3da01b489b5b99e260ddc93
+    - 04b3e8bbf203b374ba19aa2fd8129ceb
+    - 4adcda4b247da3045975333b10813005
+    - a860a8efd9a034241b205a8ceaa511f7
+    - bfccd2d26f986ee43bc69f48b20da058
+    - 2bacf0e47afcb564e8dc7db24e7d7393
+  _itemDisplaySize: 100
+  _viewStyle: 0
+  _useCollectionViewSettings: 0
+  _autoSourceCollections: []
+  _sourceCollections:
+  - _collection: {fileID: 0}
+    _id:
+      _serializedGuid: 
+  _itemsSourcesMap:
+    _keyValuePairs:
+    - key: 5bac2e5b67a92154ea5b4afa2d695044
+      value:
+      - _serializedGuid: d4a045e0ac0eb04b8c1d32e7bf039bf7
+    - key: 8cb498ab8ebea3640a0c9b12de1c91f6
+      value:
+      - _serializedGuid: d4a045e0ac0eb04b8c1d32e7bf039bf7
+    - key: 74c8606a98822e044bb1cd8a2eaefebb
+      value:
+      - _serializedGuid: d4a045e0ac0eb04b8c1d32e7bf039bf7
+    - key: b1ad8ef6890687249a641abef8e26baf
+      value:
+      - _serializedGuid: d4a045e0ac0eb04b8c1d32e7bf039bf7
+    - key: cd46f6361746af34ca29dec77bee51a2
+      value:
+      - _serializedGuid: d4a045e0ac0eb04b8c1d32e7bf039bf7
+    - key: 092595d39c7f3fe40bc19e13323f824d
+      value:
+      - _serializedGuid: d4a045e0ac0eb04b8c1d32e7bf039bf7
+    - key: 608f0ba07d26e7642b8d36d0e0f851e6
+      value:
+      - _serializedGuid: d4a045e0ac0eb04b8c1d32e7bf039bf7
+    - key: 5a16fbe844697354eaafd84247d55985
+      value:
+      - _serializedGuid: d4a045e0ac0eb04b8c1d32e7bf039bf7
+    - key: c030142463ad580429b680ac742166ba
+      value:
+      - _serializedGuid: d4a045e0ac0eb04b8c1d32e7bf039bf7
+    - key: 6cc63cba898ace244bba643423dfda2e
+      value:
+      - _serializedGuid: d4a045e0ac0eb04b8c1d32e7bf039bf7
+    - key: 73bc14e443072aa4d99d7c246a51370d
+      value:
+      - _serializedGuid: d4a045e0ac0eb04b8c1d32e7bf039bf7
+    - key: b6f3dfbb5c58a34489071b09c45b8f94
+      value:
+      - _serializedGuid: d4a045e0ac0eb04b8c1d32e7bf039bf7
+    - key: 0c66159e6cbb60a42831373af849b686
+      value:
+      - _serializedGuid: d4a045e0ac0eb04b8c1d32e7bf039bf7
+    - key: 98ab284b689f29148afb10f5b7f09992
+      value:
+      - _serializedGuid: d4a045e0ac0eb04b8c1d32e7bf039bf7
+    - key: a5d0481d2421b38458d7a3d90a2f39e0
+      value:
+      - _serializedGuid: d4a045e0ac0eb04b8c1d32e7bf039bf7
+    - key: 858952fd9f8e74140bf57e65ddc472ed
+      value:
+      - _serializedGuid: d4a045e0ac0eb04b8c1d32e7bf039bf7
+    - key: a549a6de16f98f84ebe678daba85b04e
+      value:
+      - _serializedGuid: d4a045e0ac0eb04b8c1d32e7bf039bf7
+    - key: a403260d581bded4d85f723fd39eb456
+      value:
+      - _serializedGuid: d4a045e0ac0eb04b8c1d32e7bf039bf7
+    - key: 59fda38c2143a264fb1ca61086abcc96
+      value:
+      - _serializedGuid: d4a045e0ac0eb04b8c1d32e7bf039bf7
+    - key: a6904f5656dfe8e49bd1fae1497ddf07
+      value:
+      - _serializedGuid: d4a045e0ac0eb04b8c1d32e7bf039bf7
+    - key: 875f1554fc0f55443b16d1cb0b912e64
+      value:
+      - _serializedGuid: d4a045e0ac0eb04b8c1d32e7bf039bf7
+    - key: fa993d692bbb7fe4eadefb231970e8b7
+      value:
+      - _serializedGuid: d4a045e0ac0eb04b8c1d32e7bf039bf7
+    - key: b2ccf63e5a3aab9438ac359089017a46
+      value:
+      - _serializedGuid: d4a045e0ac0eb04b8c1d32e7bf039bf7
+    - key: 20980883898f4704f86e6d74b75682ef
+      value:
+      - _serializedGuid: d4a045e0ac0eb04b8c1d32e7bf039bf7
+    - key: d43900a9d4c0e224eaf62e1d618dd64a
+      value:
+      - _serializedGuid: d4a045e0ac0eb04b8c1d32e7bf039bf7
+    - key: 576b6d70e3da01b489b5b99e260ddc93
+      value:
+      - _serializedGuid: d4a045e0ac0eb04b8c1d32e7bf039bf7
+    - key: 04b3e8bbf203b374ba19aa2fd8129ceb
+      value:
+      - _serializedGuid: d4a045e0ac0eb04b8c1d32e7bf039bf7
+    - key: 4adcda4b247da3045975333b10813005
+      value:
+      - _serializedGuid: d4a045e0ac0eb04b8c1d32e7bf039bf7
+    - key: a860a8efd9a034241b205a8ceaa511f7
+      value:
+      - _serializedGuid: d4a045e0ac0eb04b8c1d32e7bf039bf7
+    - key: bfccd2d26f986ee43bc69f48b20da058
+      value:
+      - _serializedGuid: d4a045e0ac0eb04b8c1d32e7bf039bf7
+    - key: 2bacf0e47afcb564e8dc7db24e7d7393
+      value:
+      - _serializedGuid: d4a045e0ac0eb04b8c1d32e7bf039bf7
+  _autoSource: 1
+  references:
+    version: 2
+    RefIds:
+    - rid: 5752428891459551265
+      type: {class: NameRule, ns: Bewildered.SmartLibrary, asm: Bewildered.SmartLibrary}
+      data:
+        _operand: 2
+        _scopeState: 0
+        _matchType: 1
+        _text: Tower

@@ -1,0 +1,99 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b1f6edf7219569c4ca5c598f8a320068, type: 3}
+  m_Name: Floor
+  m_EditorClassIdentifier: 
+  _root: {fileID: 0}
+  _parent: {fileID: 0}
+  _parentID:
+    _serializedGuid: 002292408b49cf48b423e7e9842c992b
+  _subcollections: []
+  _subcollectionIDs: []
+  _collectionName: Floor
+  _id:
+    _serializedGuid: 7b1399f850830044ba365f32211da23e
+  _icon: {fileID: 0}
+  _rules:
+    _rules:
+    - rid: 5752428891459551269
+    - rid: 5752428891459551270
+  _items:
+    _hashSetList:
+    - 499472f2159824c4fa06f126cefdac4b
+    - cc0287fe67522844ea30f5fcdbebcb8b
+    - 141f6db59f1ff4a4e8e9e1e270f39d67
+    - 6e22efa820c49ea459764a5e57edd79b
+    - 07ace05306ce58d49963df7396227e22
+    - 5e2e345c840d36640aa299a45406193a
+    - faadd9d98aa1fe647aaf4f25cdf314b3
+    - b5b14e7713136c146bf0f311b7030298
+    - af94a02876f38174e9c21a37dfff8893
+    - d141aa9800e882c4fa38e48125bcd0de
+    - ee22c9d751ac69942a53a2660a6a5602
+    - 1e16596543a5a854c8b6d069be583a7e
+    - d869969df51d9834e961ed8dd9a6cc94
+    - 9154d83fdcda70f4f84028ccd30286a2
+    - e7a2efa993642774db4b6947209a0b91
+    - 7527293ca015a324d9a5a3fec600da4b
+    - 77f8f8b2b7c79c84fa7e05dfef7abb42
+    - 66d5df05d84e531478fe461e0dbd561a
+    - 0357a1319ef18414592ad4f5234d2352
+    - 69b44126a11b643488d608b81e3217bb
+    - ba0e5897cca903b4a9bababadb118a8b
+    - 025d2879071731d438e69767ce115f2e
+    - 8d9fe42b1dc8a2543b8b152d27ae93c2
+    - 052b82a6fbcaf9643b54e2df8b0097c5
+    - 23f033a45399e9b4ea239f5375d90fd8
+    - ecc581123e3177d45bf182809503c4e4
+    - 32ea7ec0924eccb4688c22639285aed1
+    - c9d5fbcac0b09dc41a4b76c6200ddf1e
+    - d3c6c6fac7d04684694d9183c4f2a8f4
+    - 2023d665e8f86bf4298154fd55b745af
+    - ca1b9651b18c57245bb9fe3bad49ae6e
+    - fe4000dd28630244abf9aa74038ab7d8
+    - da4344f12fe9e694aa1e11b87d77973e
+    - 79488be375cdbca4e887818fba0d25f2
+    - 91398dc6c80ef01448ef5bb086fca2a9
+    - 62918f245c347b94f86309b18199ba9b
+    - 50f999a7ce4c0b44d9a88179a8328d77
+    - 5498ec4ddc6a7a347b9a03bfc963e913
+    - 453939d3b95bcc548a2f9dcadf22126f
+    - b0e14f9cb45c5d741b43a7edde1c7e79
+    - 24b0b150da281bd45950f42268440e88
+    - 3eda57f0da69a7842a831e48ca412248
+    - 85206da4dd6f76e47b71fed438f7b162
+    - fce489e311bafa74584f3e3bbc7d726d
+    - b85951956010a9c4281525c3b2144ff4
+    - a293fae7457843c42aa9dd37245f4abc
+    - 172f5489879e6364cae307bb6d6e7517
+    - cded3e02104fad242868a47ec92b1769
+    - 115e19f45cfeb3648b9618a720e2f288
+  _itemDisplaySize: 100
+  _viewStyle: 0
+  _useCollectionViewSettings: 0
+  _folders: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 5752428891459551269
+      type: {class: PrefabRule, ns: Bewildered.SmartLibrary, asm: Bewildered.SmartLibrary}
+      data:
+        _operand: 2
+        _scopeState: 0
+        _prefabType: 1
+    - rid: 5752428891459551270
+      type: {class: NameRule, ns: Bewildered.SmartLibrary, asm: Bewildered.SmartLibrary}
+      data:
+        _operand: 2
+        _scopeState: 0
+        _matchType: 1
+        _text: Floor

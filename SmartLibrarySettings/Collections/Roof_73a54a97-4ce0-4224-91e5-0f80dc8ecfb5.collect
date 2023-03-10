@@ -1,0 +1,426 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 63a5bc593402dfa489ebb23c5153ab25, type: 3}
+  m_Name: Roof
+  m_EditorClassIdentifier: 
+  _root: {fileID: 0}
+  _parent: {fileID: 0}
+  _parentID:
+    _serializedGuid: d4a045e0ac0eb04b8c1d32e7bf039bf7
+  _subcollections: []
+  _subcollectionIDs: []
+  _collectionName: Roof
+  _id:
+    _serializedGuid: 974aa573e04c244291e50f80dc8ecfb5
+  _icon: {fileID: 0}
+  _rules:
+    _rules:
+    - rid: 5752428891459551263
+  _items:
+    _hashSetList:
+    - cb7167f0edd8745489016f218c28c9e3
+    - 69c62eac4de08554391eef126983a2c0
+    - 1b236a9844af1ad4a9bcd6dc1c326910
+    - ad003a1f695fb764786b26e41ae7f594
+    - 1e270f35422977343b7db1dde4b6bca7
+    - e26e022364a361549a9a5bb268cbdb96
+    - 5ab493e6631bb584f96d5562beb3d03d
+    - 6d3e81c35ed7f3e4387a7d7205a95bf2
+    - d1301c2faaa6f1b4b967fa8c0bb79277
+    - 7c0ca382d7eee984cbedffcbfd0a1cb4
+    - bbda559d7b8e45a49880e7da5cafb628
+    - 513ddfab6bddb574c8edb056753b75ec
+    - 78c833a5ff208fb42a72da810c3277d5
+    - 032c9f763ed743a449edd52af592834a
+    - 1912b87948187934ab0da4ed30fe247c
+    - 0f77664f9e05ef14782eed200b4f0614
+    - 88c0d44a46d02db47bb7545ff1381108
+    - 30b37d6757e683347bb6026bd74338fe
+    - 28fde7fee41c4704e9beb0b1f0b9a043
+    - c96ba257d35ae8f4c8c7a9c57984e4ec
+    - 8e9907a52834e654f89d19714f523963
+    - 75bab1dbfbe4f4b489033f3d119ee75f
+    - 9ec77308ef541944ebcbbd8b4d8a6e8b
+    - 2e9618e133b28784ebbfa123818afa06
+    - 604f4314fa118704f8a735f13011020d
+    - a8e30ad2ab1bb1447b474ca0b73dd8f6
+    - 62a636116c0c47e41884e23e4e05f177
+    - fc51bcfc93b08ae4dab07ad28d63eb61
+    - b4ff3f61225042d4da2014261ecc531b
+    - 5ea50c15283f9314da908b8c86edc63b
+    - b8dbfdf5620921d45917d0b2fa2ef505
+    - c2b6561a8fbd77a4da5908d52aa324eb
+    - ae9b153e12ef08646b52de1b56595e7a
+    - 278eda3222e2e494492de2afa1d88072
+    - a0f8cf1f9d6dc8241a881e5edcdc58ec
+    - 7b491b911140574449c6a6126b87f28b
+    - a1fd4ccbd5bb2644abd8a9aad7b60f77
+    - 5c1758a161f04064d8fe0b09b7390b33
+    - a495e8a11244da846ae4f037bbe1d13c
+    - 0f1dd5e4392b4d14d8034dd801f36121
+    - d6a40203612f58e4aa895783a4270efe
+    - a3efc845ae5836d40917bb6d30c73dd6
+    - d0863c32dc11f754fac0d011c5758b81
+    - 4ad24e66ffbcd7b409c600cf2acc9df2
+    - e6b64a3e91df0b4489b41be502ce794e
+    - 149ba59ffa7c5e04d82643c0c5b3c488
+    - 55559c4233802334abfeb5bc4695ae39
+    - a67f5f369ca1f11449d69b4fcda2df7c
+    - 70972be6b3d923b48ad889981b55fbe8
+    - 740b21303ce348d48ba359ed1043e69d
+    - 09a694a94297c624dacb22f654186ad2
+    - 1870d1b58fd2de54a8aef93f6bf37146
+    - e596668f597d2084b8e0ba77993d25ce
+    - 25ca79a09235cc24484a9af5f228f6e7
+    - 6733cc0e4d0b4a441a172127430f03cc
+    - 28c492901b25ece44831a8a3d53287cd
+    - f933ebaf5b4d8c04e8ff8dd331dbb5e4
+    - 4fd11064df1c93c40a131514689c8fc7
+    - 443279e328cd773439ff4ed122575668
+    - 606b9918571f77e48baa9b1d5ba34b00
+    - ff1d391d4a770b74da55e8ff61ac4269
+    - 03d4d6bf1a794de4083c75fb4975c6f9
+    - 5e69010502551354d8422934b8df8155
+    - 109c944be4369a044b0f337490c883cf
+    - 5520a1595d90e514ea7ff9770cfb132c
+    - c2939548b46262a4b9a12735f9b5f4e8
+    - 8db102e290bedf34f900ec252ebefe6a
+    - 6f2b631c562f6c3488826d6bda5de2e5
+    - 83a6dd1e8734d5242a8b814810793938
+    - e5b095e5b022b2e468e439fd0abfa223
+    - 9a53500660819894ebe13da62ce818dc
+    - ba6e61701ba2bb84c9ec9fa08090eb8e
+    - 33b3c8e9481a5914e80712731c404004
+    - df153d837ef151b438508bfb99daee1f
+    - fd45720a7cac8f6469dfed2031a6f187
+    - aa2e046d652209142bcddc37371f7823
+    - 941145b0852488840998876eb7312214
+    - b38ca12dd552c80478c341d2e0a41336
+    - 9c1048b48fd0e7e469c4c3a00f77f7e2
+    - a2d6368f3f4eea9429d3143282649071
+    - b835486e861df704cb308fb352001a3e
+    - 3aa2f1ec964eaf347b2fda071f58785c
+    - 2e9d3cd01495e764d8523fae35bddbd8
+    - 741baf3fb84ab9e409906aa44437bc2f
+    - 38733caa7bd2c6246807dc69d0432362
+    - fb78afcf9720a5347bad0ff43131178b
+    - d30d960c71263eb47b06ac010e9eb5f6
+    - c0fc7fb30bf0f0f4d96f0cbad08e87f8
+    - b29af00e6e02f7244b6ac6cf0e5a1359
+    - 23de43cf7c7c7164592b0d016e138fac
+    - 851f3bd037fbd8b4fa0f6219ff38bbbd
+    - c7cf8bf13ea062c4990b581d0ae19a30
+    - 2678ae1982dc1b74b99abd46d8ccb50c
+    - fb1c5e78ea65052439ebf76d0b3377ad
+  _itemDisplaySize: 100
+  _viewStyle: 0
+  _useCollectionViewSettings: 0
+  _autoSourceCollections: []
+  _sourceCollections:
+  - _collection: {fileID: 0}
+    _id:
+      _serializedGuid: 
+  _itemsSourcesMap:
+    _keyValuePairs:
+    - key: cb7167f0edd8745489016f218c28c9e3
+      value:
+      - _serializedGuid: d4a045e0ac0eb04b8c1d32e7bf039bf7
+    - key: 69c62eac4de08554391eef126983a2c0
+      value:
+      - _serializedGuid: d4a045e0ac0eb04b8c1d32e7bf039bf7
+    - key: 1b236a9844af1ad4a9bcd6dc1c326910
+      value:
+      - _serializedGuid: d4a045e0ac0eb04b8c1d32e7bf039bf7
+    - key: ad003a1f695fb764786b26e41ae7f594
+      value:
+      - _serializedGuid: d4a045e0ac0eb04b8c1d32e7bf039bf7
+    - key: 1e270f35422977343b7db1dde4b6bca7
+      value:
+      - _serializedGuid: d4a045e0ac0eb04b8c1d32e7bf039bf7
+    - key: e26e022364a361549a9a5bb268cbdb96
+      value:
+      - _serializedGuid: d4a045e0ac0eb04b8c1d32e7bf039bf7
+    - key: 5ab493e6631bb584f96d5562beb3d03d
+      value:
+      - _serializedGuid: d4a045e0ac0eb04b8c1d32e7bf039bf7
+    - key: 6d3e81c35ed7f3e4387a7d7205a95bf2
+      value:
+      - _serializedGuid: d4a045e0ac0eb04b8c1d32e7bf039bf7
+    - key: d1301c2faaa6f1b4b967fa8c0bb79277
+      value:
+      - _serializedGuid: d4a045e0ac0eb04b8c1d32e7bf039bf7
+    - key: 7c0ca382d7eee984cbedffcbfd0a1cb4
+      value:
+      - _serializedGuid: d4a045e0ac0eb04b8c1d32e7bf039bf7
+    - key: bbda559d7b8e45a49880e7da5cafb628
+      value:
+      - _serializedGuid: d4a045e0ac0eb04b8c1d32e7bf039bf7
+    - key: 513ddfab6bddb574c8edb056753b75ec
+      value:
+      - _serializedGuid: d4a045e0ac0eb04b8c1d32e7bf039bf7
+    - key: 78c833a5ff208fb42a72da810c3277d5
+      value:
+      - _serializedGuid: d4a045e0ac0eb04b8c1d32e7bf039bf7
+    - key: 032c9f763ed743a449edd52af592834a
+      value:
+      - _serializedGuid: d4a045e0ac0eb04b8c1d32e7bf039bf7
+    - key: 1912b87948187934ab0da4ed30fe247c
+      value:
+      - _serializedGuid: d4a045e0ac0eb04b8c1d32e7bf039bf7
+    - key: 0f77664f9e05ef14782eed200b4f0614
+      value:
+      - _serializedGuid: d4a045e0ac0eb04b8c1d32e7bf039bf7
+    - key: 88c0d44a46d02db47bb7545ff1381108
+      value:
+      - _serializedGuid: d4a045e0ac0eb04b8c1d32e7bf039bf7
+    - key: 30b37d6757e683347bb6026bd74338fe
+      value:
+      - _serializedGuid: d4a045e0ac0eb04b8c1d32e7bf039bf7
+    - key: 28fde7fee41c4704e9beb0b1f0b9a043
+      value:
+      - _serializedGuid: d4a045e0ac0eb04b8c1d32e7bf039bf7
+    - key: c96ba257d35ae8f4c8c7a9c57984e4ec
+      value:
+      - _serializedGuid: d4a045e0ac0eb04b8c1d32e7bf039bf7
+    - key: 8e9907a52834e654f89d19714f523963
+      value:
+      - _serializedGuid: d4a045e0ac0eb04b8c1d32e7bf039bf7
+    - key: 75bab1dbfbe4f4b489033f3d119ee75f
+      value:
+      - _serializedGuid: d4a045e0ac0eb04b8c1d32e7bf039bf7
+    - key: 9ec77308ef541944ebcbbd8b4d8a6e8b
+      value:
+      - _serializedGuid: d4a045e0ac0eb04b8c1d32e7bf039bf7
+    - key: 2e9618e133b28784ebbfa123818afa06
+      value:
+      - _serializedGuid: d4a045e0ac0eb04b8c1d32e7bf039bf7
+    - key: 604f4314fa118704f8a735f13011020d
+      value:
+      - _serializedGuid: d4a045e0ac0eb04b8c1d32e7bf039bf7
+    - key: a8e30ad2ab1bb1447b474ca0b73dd8f6
+      value:
+      - _serializedGuid: d4a045e0ac0eb04b8c1d32e7bf039bf7
+    - key: 62a636116c0c47e41884e23e4e05f177
+      value:
+      - _serializedGuid: d4a045e0ac0eb04b8c1d32e7bf039bf7
+    - key: fc51bcfc93b08ae4dab07ad28d63eb61
+      value:
+      - _serializedGuid: d4a045e0ac0eb04b8c1d32e7bf039bf7
+    - key: b4ff3f61225042d4da2014261ecc531b
+      value:
+      - _serializedGuid: d4a045e0ac0eb04b8c1d32e7bf039bf7
+    - key: 5ea50c15283f9314da908b8c86edc63b
+      value:
+      - _serializedGuid: d4a045e0ac0eb04b8c1d32e7bf039bf7
+    - key: b8dbfdf5620921d45917d0b2fa2ef505
+      value:
+      - _serializedGuid: d4a045e0ac0eb04b8c1d32e7bf039bf7
+    - key: c2b6561a8fbd77a4da5908d52aa324eb
+      value:
+      - _serializedGuid: d4a045e0ac0eb04b8c1d32e7bf039bf7
+    - key: ae9b153e12ef08646b52de1b56595e7a
+      value:
+      - _serializedGuid: d4a045e0ac0eb04b8c1d32e7bf039bf7
+    - key: 278eda3222e2e494492de2afa1d88072
+      value:
+      - _serializedGuid: d4a045e0ac0eb04b8c1d32e7bf039bf7
+    - key: a0f8cf1f9d6dc8241a881e5edcdc58ec
+      value:
+      - _serializedGuid: d4a045e0ac0eb04b8c1d32e7bf039bf7
+    - key: 7b491b911140574449c6a6126b87f28b
+      value:
+      - _serializedGuid: d4a045e0ac0eb04b8c1d32e7bf039bf7
+    - key: a1fd4ccbd5bb2644abd8a9aad7b60f77
+      value:
+      - _serializedGuid: d4a045e0ac0eb04b8c1d32e7bf039bf7
+    - key: 5c1758a161f04064d8fe0b09b7390b33
+      value:
+      - _serializedGuid: d4a045e0ac0eb04b8c1d32e7bf039bf7
+    - key: a495e8a11244da846ae4f037bbe1d13c
+      value:
+      - _serializedGuid: d4a045e0ac0eb04b8c1d32e7bf039bf7
+    - key: 0f1dd5e4392b4d14d8034dd801f36121
+      value:
+      - _serializedGuid: d4a045e0ac0eb04b8c1d32e7bf039bf7
+    - key: d6a40203612f58e4aa895783a4270efe
+      value:
+      - _serializedGuid: d4a045e0ac0eb04b8c1d32e7bf039bf7
+    - key: a3efc845ae5836d40917bb6d30c73dd6
+      value:
+      - _serializedGuid: d4a045e0ac0eb04b8c1d32e7bf039bf7
+    - key: d0863c32dc11f754fac0d011c5758b81
+      value:
+      - _serializedGuid: d4a045e0ac0eb04b8c1d32e7bf039bf7
+    - key: 4ad24e66ffbcd7b409c600cf2acc9df2
+      value:
+      - _serializedGuid: d4a045e0ac0eb04b8c1d32e7bf039bf7
+    - key: e6b64a3e91df0b4489b41be502ce794e
+      value:
+      - _serializedGuid: d4a045e0ac0eb04b8c1d32e7bf039bf7
+    - key: 149ba59ffa7c5e04d82643c0c5b3c488
+      value:
+      - _serializedGuid: d4a045e0ac0eb04b8c1d32e7bf039bf7
+    - key: 55559c4233802334abfeb5bc4695ae39
+      value:
+      - _serializedGuid: d4a045e0ac0eb04b8c1d32e7bf039bf7
+    - key: a67f5f369ca1f11449d69b4fcda2df7c
+      value:
+      - _serializedGuid: d4a045e0ac0eb04b8c1d32e7bf039bf7
+    - key: 70972be6b3d923b48ad889981b55fbe8
+      value:
+      - _serializedGuid: d4a045e0ac0eb04b8c1d32e7bf039bf7
+    - key: 740b21303ce348d48ba359ed1043e69d
+      value:
+      - _serializedGuid: d4a045e0ac0eb04b8c1d32e7bf039bf7
+    - key: 09a694a94297c624dacb22f654186ad2
+      value:
+      - _serializedGuid: d4a045e0ac0eb04b8c1d32e7bf039bf7
+    - key: 1870d1b58fd2de54a8aef93f6bf37146
+      value:
+      - _serializedGuid: d4a045e0ac0eb04b8c1d32e7bf039bf7
+    - key: e596668f597d2084b8e0ba77993d25ce
+      value:
+      - _serializedGuid: d4a045e0ac0eb04b8c1d32e7bf039bf7
+    - key: 25ca79a09235cc24484a9af5f228f6e7
+      value:
+      - _serializedGuid: d4a045e0ac0eb04b8c1d32e7bf039bf7
+    - key: 6733cc0e4d0b4a441a172127430f03cc
+      value:
+      - _serializedGuid: d4a045e0ac0eb04b8c1d32e7bf039bf7
+    - key: 28c492901b25ece44831a8a3d53287cd
+      value:
+      - _serializedGuid: d4a045e0ac0eb04b8c1d32e7bf039bf7
+    - key: f933ebaf5b4d8c04e8ff8dd331dbb5e4
+      value:
+      - _serializedGuid: d4a045e0ac0eb04b8c1d32e7bf039bf7
+    - key: 4fd11064df1c93c40a131514689c8fc7
+      value:
+      - _serializedGuid: d4a045e0ac0eb04b8c1d32e7bf039bf7
+    - key: 443279e328cd773439ff4ed122575668
+      value:
+      - _serializedGuid: d4a045e0ac0eb04b8c1d32e7bf039bf7
+    - key: 606b9918571f77e48baa9b1d5ba34b00
+      value:
+      - _serializedGuid: d4a045e0ac0eb04b8c1d32e7bf039bf7
+    - key: ff1d391d4a770b74da55e8ff61ac4269
+      value:
+      - _serializedGuid: d4a045e0ac0eb04b8c1d32e7bf039bf7
+    - key: 03d4d6bf1a794de4083c75fb4975c6f9
+      value:
+      - _serializedGuid: d4a045e0ac0eb04b8c1d32e7bf039bf7
+    - key: 5e69010502551354d8422934b8df8155
+      value:
+      - _serializedGuid: d4a045e0ac0eb04b8c1d32e7bf039bf7
+    - key: 109c944be4369a044b0f337490c883cf
+      value:
+      - _serializedGuid: d4a045e0ac0eb04b8c1d32e7bf039bf7
+    - key: 5520a1595d90e514ea7ff9770cfb132c
+      value:
+      - _serializedGuid: d4a045e0ac0eb04b8c1d32e7bf039bf7
+    - key: c2939548b46262a4b9a12735f9b5f4e8
+      value:
+      - _serializedGuid: d4a045e0ac0eb04b8c1d32e7bf039bf7
+    - key: 8db102e290bedf34f900ec252ebefe6a
+      value:
+      - _serializedGuid: d4a045e0ac0eb04b8c1d32e7bf039bf7
+    - key: 6f2b631c562f6c3488826d6bda5de2e5
+      value:
+      - _serializedGuid: d4a045e0ac0eb04b8c1d32e7bf039bf7
+    - key: 83a6dd1e8734d5242a8b814810793938
+      value:
+      - _serializedGuid: d4a045e0ac0eb04b8c1d32e7bf039bf7
+    - key: e5b095e5b022b2e468e439fd0abfa223
+      value:
+      - _serializedGuid: d4a045e0ac0eb04b8c1d32e7bf039bf7
+    - key: 9a53500660819894ebe13da62ce818dc
+      value:
+      - _serializedGuid: d4a045e0ac0eb04b8c1d32e7bf039bf7
+    - key: ba6e61701ba2bb84c9ec9fa08090eb8e
+      value:
+      - _serializedGuid: d4a045e0ac0eb04b8c1d32e7bf039bf7
+    - key: 33b3c8e9481a5914e80712731c404004
+      value:
+      - _serializedGuid: d4a045e0ac0eb04b8c1d32e7bf039bf7
+    - key: df153d837ef151b438508bfb99daee1f
+      value:
+      - _serializedGuid: d4a045e0ac0eb04b8c1d32e7bf039bf7
+    - key: fd45720a7cac8f6469dfed2031a6f187
+      value:
+      - _serializedGuid: d4a045e0ac0eb04b8c1d32e7bf039bf7
+    - key: aa2e046d652209142bcddc37371f7823
+      value:
+      - _serializedGuid: d4a045e0ac0eb04b8c1d32e7bf039bf7
+    - key: 941145b0852488840998876eb7312214
+      value:
+      - _serializedGuid: d4a045e0ac0eb04b8c1d32e7bf039bf7
+    - key: b38ca12dd552c80478c341d2e0a41336
+      value:
+      - _serializedGuid: d4a045e0ac0eb04b8c1d32e7bf039bf7
+    - key: 9c1048b48fd0e7e469c4c3a00f77f7e2
+      value:
+      - _serializedGuid: d4a045e0ac0eb04b8c1d32e7bf039bf7
+    - key: a2d6368f3f4eea9429d3143282649071
+      value:
+      - _serializedGuid: d4a045e0ac0eb04b8c1d32e7bf039bf7
+    - key: b835486e861df704cb308fb352001a3e
+      value:
+      - _serializedGuid: d4a045e0ac0eb04b8c1d32e7bf039bf7
+    - key: 3aa2f1ec964eaf347b2fda071f58785c
+      value:
+      - _serializedGuid: d4a045e0ac0eb04b8c1d32e7bf039bf7
+    - key: 2e9d3cd01495e764d8523fae35bddbd8
+      value:
+      - _serializedGuid: d4a045e0ac0eb04b8c1d32e7bf039bf7
+    - key: 741baf3fb84ab9e409906aa44437bc2f
+      value:
+      - _serializedGuid: d4a045e0ac0eb04b8c1d32e7bf039bf7
+    - key: 38733caa7bd2c6246807dc69d0432362
+      value:
+      - _serializedGuid: d4a045e0ac0eb04b8c1d32e7bf039bf7
+    - key: fb78afcf9720a5347bad0ff43131178b
+      value:
+      - _serializedGuid: d4a045e0ac0eb04b8c1d32e7bf039bf7
+    - key: d30d960c71263eb47b06ac010e9eb5f6
+      value:
+      - _serializedGuid: d4a045e0ac0eb04b8c1d32e7bf039bf7
+    - key: c0fc7fb30bf0f0f4d96f0cbad08e87f8
+      value:
+      - _serializedGuid: d4a045e0ac0eb04b8c1d32e7bf039bf7
+    - key: b29af00e6e02f7244b6ac6cf0e5a1359
+      value:
+      - _serializedGuid: d4a045e0ac0eb04b8c1d32e7bf039bf7
+    - key: 23de43cf7c7c7164592b0d016e138fac
+      value:
+      - _serializedGuid: d4a045e0ac0eb04b8c1d32e7bf039bf7
+    - key: 851f3bd037fbd8b4fa0f6219ff38bbbd
+      value:
+      - _serializedGuid: d4a045e0ac0eb04b8c1d32e7bf039bf7
+    - key: c7cf8bf13ea062c4990b581d0ae19a30
+      value:
+      - _serializedGuid: d4a045e0ac0eb04b8c1d32e7bf039bf7
+    - key: 2678ae1982dc1b74b99abd46d8ccb50c
+      value:
+      - _serializedGuid: d4a045e0ac0eb04b8c1d32e7bf039bf7
+    - key: fb1c5e78ea65052439ebf76d0b3377ad
+      value:
+      - _serializedGuid: d4a045e0ac0eb04b8c1d32e7bf039bf7
+  _autoSource: 1
+  references:
+    version: 2
+    RefIds:
+    - rid: 5752428891459551263
+      type: {class: NameRule, ns: Bewildered.SmartLibrary, asm: Bewildered.SmartLibrary}
+      data:
+        _operand: 2
+        _scopeState: 0
+        _matchType: 1
+        _text: Roof

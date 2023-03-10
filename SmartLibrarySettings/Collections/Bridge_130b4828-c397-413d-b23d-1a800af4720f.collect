@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b1f6edf7219569c4ca5c598f8a320068, type: 3}
+  m_Name: Bridge
+  m_EditorClassIdentifier: 
+  _root: {fileID: 0}
+  _parent: {fileID: 0}
+  _parentID:
+    _serializedGuid: eda9e35814162a4db50381a04fabe9a5
+  _subcollections: []
+  _subcollectionIDs: []
+  _collectionName: Bridge
+  _id:
+    _serializedGuid: 28480b1397c33d41b23d1a800af4720f
+  _icon: {fileID: 0}
+  _rules:
+    _rules:
+    - rid: 5752428891459551235
+    - rid: 5752428891459551234
+  _items:
+    _hashSetList:
+    - 387d93711c1d03a48b083591256c560c
+    - c75638300651d354b8a0ff826f7c351b
+    - 1e99866fc4043f645a165bf26230ebb6
+    - 962d11fd52713e44aa84f2fe2e9bc04c
+    - 98a791f79fddc8c4882a3518ef5ba3e5
+    - a0cb2c321fdf00a4ba429209e735b448
+    - 3c3791d604bc6104fa09b77432654cb6
+    - 2a70b5473e2e3394da62b94507333f12
+    - c68eb570100218d42b229d729668a091
+    - 53df91a386bb7b541a0c24d10af51a54
+    - 1d91541947a527e4795c321391437e24
+    - e5f76e5ba3a970c4a84dbec8f0013f79
+    - c11c451c51a6d3f42ae5a9571890b71b
+  _itemDisplaySize: 100
+  _viewStyle: 0
+  _useCollectionViewSettings: 0
+  _folders: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 5752428891459551234
+      type: {class: NameRule, ns: Bewildered.SmartLibrary, asm: Bewildered.SmartLibrary}
+      data:
+        _operand: 2
+        _scopeState: 0
+        _matchType: 1
+        _text: Bridge
+    - rid: 5752428891459551235
+      type: {class: PrefabRule, ns: Bewildered.SmartLibrary, asm: Bewildered.SmartLibrary}
+      data:
+        _operand: 2
+        _scopeState: 0
+        _prefabType: 1
